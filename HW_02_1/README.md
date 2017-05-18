@@ -17,14 +17,14 @@
 ## В программе реализованы классы: 
 
 
-#### MainApp.java
+#### [MainApp.java](https://github.com/Flarefibber/Bitbucket/blob/master/HW_02_1/MainApp.java)
 
   Запускает программу и вызывает Menu.java
 
-#### Menu.java
+#### [Menu.java](https://github.com/Flarefibber/Bitbucket/blob/master/HW_02_1/Menu.java)
 
   Реализует клиенскую часть в виде консольного меню. Обращается к CollectionHolder.java
 
-#### [CollectionHolder.java]:https://github.com/Flarefibber/Bitbucket/blob/master/HW_02_1/CollectionHolder.java
+#### [CollectionHolder.java](https://github.com/Flarefibber/Bitbucket/blob/master/HW_02_1/CollectionHolder.java)
 
   Реализует ArrayList с методами из условия задания
