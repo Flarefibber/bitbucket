@@ -25,6 +25,6 @@
 
   Реализует клиенскую часть в виде консольного меню. Обращается к CollectionHolder.java
 
-#### CollectionHolder.java
+#### [CollectionHolder.java]:https://github.com/Flarefibber/Bitbucket/blob/master/HW_02_1/CollectionHolder.java
 
   Реализует ArrayList с методами из условия задания
